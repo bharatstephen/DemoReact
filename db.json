@@ -1,7 +1,6 @@
 {
-  "posts": [
+  "username": [
     {  "username": "stephen", "password": "Ste@123" },
-    { "username": "bharat", "password": "Ste@123" },
-    { "id": 3, "title": "Post 3" }
+    { "username": "bharat", "password": "Ste@123" }
   ]
 }
