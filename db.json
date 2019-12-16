@@ -1,7 +1,14 @@
 {
-  "username":[
-  {"username":"stephen", "password":"Ste@123"},
-  {"username":"bharat", "password":"Ste@123"}
-  ]
+  "posts": [
+    {  "username": "stephen", "password": "Ste@123" },
+    { "username": "bharat", "password": "Ste@123" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
