@@ -1,4 +1,6 @@
-[
+  
+{
+  "malayalammovies":[
   {
     "Movie": "Uyare",
     "AvaliableSeats": 10,
@@ -41,3 +43,4 @@
     "ImageSrc": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyMMIpkm9Iw7Br-MMqtLuHb2Nm4qzESRA_lq3YFnE8OAkg0Zci"
   }
 ]
+}
